@@ -1,5 +1,7 @@
 # Puppet-in-Docker examples
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/puppet-in-docker-examples.svg)](https://www.guardrails.io)
+
 [Puppet-in-Docker](https://github.com/puppetlabs/puppet-in-docker)
 provides a series of Docker images containing Puppet software. This
 repository builds on those images with various examples, from running
